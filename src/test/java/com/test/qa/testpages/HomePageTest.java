@@ -18,4 +18,7 @@ public class HomePageTest extends BaseTest {  // ✅ Extend BaseTest to inherit 
     public void productSearch() {
         homePage.searchProducts();
     }
+    
+    
+    
 }
